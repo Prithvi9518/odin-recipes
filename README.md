@@ -1,0 +1,1 @@
+This is a basic HTML page with links to a few recipes.
